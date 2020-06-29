@@ -1,0 +1,13 @@
+C:\Users\MARCELOBUCHALOWICZ\source\repos\exVeiculos\exVeiculos\bin\Debug\netcoreapp3.1\exVeiculos.exe
+C:\Users\MARCELOBUCHALOWICZ\source\repos\exVeiculos\exVeiculos\bin\Debug\netcoreapp3.1\exVeiculos.deps.json
+C:\Users\MARCELOBUCHALOWICZ\source\repos\exVeiculos\exVeiculos\bin\Debug\netcoreapp3.1\exVeiculos.runtimeconfig.json
+C:\Users\MARCELOBUCHALOWICZ\source\repos\exVeiculos\exVeiculos\bin\Debug\netcoreapp3.1\exVeiculos.runtimeconfig.dev.json
+C:\Users\MARCELOBUCHALOWICZ\source\repos\exVeiculos\exVeiculos\bin\Debug\netcoreapp3.1\exVeiculos.dll
+C:\Users\MARCELOBUCHALOWICZ\source\repos\exVeiculos\exVeiculos\bin\Debug\netcoreapp3.1\exVeiculos.pdb
+C:\Users\MARCELOBUCHALOWICZ\source\repos\exVeiculos\exVeiculos\obj\Debug\netcoreapp3.1\exVeiculos.csprojAssemblyReference.cache
+C:\Users\MARCELOBUCHALOWICZ\source\repos\exVeiculos\exVeiculos\obj\Debug\netcoreapp3.1\exVeiculos.AssemblyInfoInputs.cache
+C:\Users\MARCELOBUCHALOWICZ\source\repos\exVeiculos\exVeiculos\obj\Debug\netcoreapp3.1\exVeiculos.AssemblyInfo.cs
+C:\Users\MARCELOBUCHALOWICZ\source\repos\exVeiculos\exVeiculos\obj\Debug\netcoreapp3.1\exVeiculos.csproj.CoreCompileInputs.cache
+C:\Users\MARCELOBUCHALOWICZ\source\repos\exVeiculos\exVeiculos\obj\Debug\netcoreapp3.1\exVeiculos.dll
+C:\Users\MARCELOBUCHALOWICZ\source\repos\exVeiculos\exVeiculos\obj\Debug\netcoreapp3.1\exVeiculos.pdb
+C:\Users\MARCELOBUCHALOWICZ\source\repos\exVeiculos\exVeiculos\obj\Debug\netcoreapp3.1\exVeiculos.genruntimeconfig.cache
