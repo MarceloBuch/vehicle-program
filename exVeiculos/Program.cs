@@ -199,7 +199,6 @@ namespace exVeiculos
                     {
                         Console.WriteLine("Nenhum carro foi cadastrado com essa cor!\n\n");
                         Console.WriteLine("Tecle enter para voltar ao menu principal!");
-                        break;
                     }
                 }
             }
